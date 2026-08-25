@@ -11,7 +11,7 @@
 [![SUPPORTED BY DAYTONA STARTUP GRID](https://img.shields.io/badge/SUPPORTED%20BY-DAYTONA%20STARTUP%20GRID-2ECC71?style=for-the-badge)](https://www.daytona.io/startups)
 [![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge)](https://e2b.dev/startups)
 
-[홈페이지](https://passionfactory.ai) · [오픈소스](https://pleaseai.dev) · [문의하기](https://passionfactory.co.kr/contact)
+[홈페이지](https://passionfactory.ai) · [오픈소스](https://pleaseai.dev) · [문의하기](https://passionfactory.ai/contact)
 
 </div>
 
